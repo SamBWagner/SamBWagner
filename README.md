@@ -1,5 +1,5 @@
 <div align="center">
-<ul style="list-style: none;">
+<ul style="list-style-type: none;">
   <li>👋 Hi, I’m @SamBWagner</li>
   <li>👀 I’m interested in Wen Development with a particular interest in backend work</li>
   <li>🌱 I’m currently learning .NET Blazor, CLI apps with .NET</li>
