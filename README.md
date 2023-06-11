@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 <ul>
   <li>👋 Hi, I’m @SamBWagner</li>
   <li>👀 I’m interested in Wen Development with a particular interest in backend work</li>
@@ -9,4 +9,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-</p>
+</div>
