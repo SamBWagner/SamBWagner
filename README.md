@@ -1,15 +1,21 @@
-<div style="display: flex; justify-content: center;" align="center">
+<div style="display: flex;">
   <h1>@SamBWagner</h1>
 </div>
 
-## About me
+<h2>Hello, World! 👋</h2>
 
-<p>"Low level" programming in languages like C++ and Rust are my jam! But I live my dev life in C# land 🍓</p>
-<p>I'm also interested in Web development, currently working as a Full-Stack dev at SSW Brisbane!</p>
-<p>🌱 I’m in the process of learning .NET Blazor for work, CLI apps with .NET for funsies, and Mobile development with Flutter on the side 🦋</p>
+I'm Sam, a Full-Stack Developer at SSW Brisbane, where I craft elegant web solutions by day and dive deep into the world of "low-level" programming by night. My favorite tools? JavaScript for it's flexibility and fast development and C# for, well, everything else!
+
+What I'm Up To
+I’m currently working with .NET Blazor at work and exploring CLI app development with .NET for fun. Also dabbling in mobile app creation with Flutter because why not add more tools to the toolbox?
+
+Here’s a snapshot of my programming language usage:
+
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamBWagner&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="ovi"/>
 <br/>
+
+And my overall GitHub stats:
 
 [![Sam's github stats](https://github-readme-stats.vercel.app/api?username=SamBWagner&theme=shades-of-purple)](https://github.com/SamBWagner/github-readme-stats)
 
