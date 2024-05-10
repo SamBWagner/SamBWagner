@@ -2,11 +2,12 @@
   <h1>@SamBWagner</h1>
 </div>
 
-<h2>Hello, World! 👋</h2>
+##Hello, World! 👋
 
 I'm Sam, a Full-Stack Developer at SSW Brisbane, where I craft elegant web solutions by day and dive deep into the world of "low-level" programming by night. My favorite tools? JavaScript for it's flexibility and fast development and C# for, well, everything else!
 
-What I'm Up To
+## What I'm Up To
+
 I’m currently working with .NET Blazor at work and exploring CLI app development with .NET for fun. Also dabbling in mobile app creation with Flutter because why not add more tools to the toolbox?
 
 Here’s a snapshot of my programming language usage:
