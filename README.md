@@ -2,7 +2,7 @@
   <h1>@SamBWagner</h1>
 </div>
 
-##Hello, World! 👋
+## Hello, World! 👋
 
 I'm Sam, a Full-Stack Developer at SSW Brisbane, where I craft elegant web solutions by day and dive deep into the world of "low-level" programming by night. My favorite tools? JavaScript for it's flexibility and fast development and C# for, well, everything else!
 
