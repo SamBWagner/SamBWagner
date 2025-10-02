@@ -4,7 +4,7 @@
 
 ## Hello, World! 👋
 
-I'm Sam, a Full-Stack Developer at SSW Brisbane, where I craft elegant web solutions by day and dive deep into the world of "low-level" programming by night. My favorite tools? JavaScript for it's flexibility and fast development, C# for WebAPIs and Swift for mobile development.
+I'm Sam, a Full-Stack Developer, I love to craft elegant web solutions by day and dive deep into the world of "low-level" programming by night. My favorite tools? JavaScript for it's flexibility and fast development, C# for WebAPIs and Swift for mobile development.
 
 ## What I'm Up To
 
