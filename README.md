@@ -17,6 +17,10 @@ I’m currently working with .NET Blazor at work and exploring CLI app developme
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" **alt="Swift" width="80" height="80"/>
 </div>
+<br/>
+
+
+<a href="https://www.buymeacoffee.com/sambwagner"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=sambwagner&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <br/>
 <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamBWagner&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="ovi"/>
