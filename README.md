@@ -19,8 +19,7 @@ I’m currently working with .NET Blazor at work and exploring CLI app developme
 </div>
 <br/>
 
-
-<a href="https://www.buymeacoffee.com/sambwagner"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=sambwagner&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sambwagner)
 
 <br/>
 <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamBWagner&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="ovi"/>
